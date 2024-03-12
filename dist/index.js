@@ -14,3 +14,4 @@ function userConstructor(name, age, hobby) {
     };
 }
 //# sourceMappingURL=index.js.map
+
